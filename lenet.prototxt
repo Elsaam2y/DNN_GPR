@@ -1,4 +1,4 @@
-name: "LeNet"
+name: "CaffeNet"
 layer {
   name: "data"
   type: "Input"
